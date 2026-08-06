@@ -1,1 +1,0 @@
-# payorc-android-native
