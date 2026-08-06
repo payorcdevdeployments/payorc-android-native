@@ -9,7 +9,7 @@ The official Android SDK for integrating PayOrc payments.
 - **Secure**: Built-in 3D Secure handling and card validation.
 
 ## Documentation
-For a full integration guide, including code examples and customization options, please refer to [INTEGRATION_GUIDE.md](../INTEGRATION_GUIDE.md).
+For a full integration guide, including code examples and customization options, please refer to [INTEGRATION_GUIDE.md](payorcsdk/INTEGRATION_GUIDE.md).
 
 ## Quick Start
 ```kotlin
